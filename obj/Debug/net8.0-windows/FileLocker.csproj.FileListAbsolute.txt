@@ -1,0 +1,17 @@
+C:\Users\Hp\Desktop\New folder\FileLocker\obj\Debug\net8.0-windows\FileLocker.Form1.resources
+C:\Users\Hp\Desktop\New folder\FileLocker\obj\Debug\net8.0-windows\FileLocker.Properties.Resources.resources
+C:\Users\Hp\Desktop\New folder\FileLocker\obj\Debug\net8.0-windows\FileLocker.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\New folder\FileLocker\obj\Debug\net8.0-windows\FileLocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\New folder\FileLocker\obj\Debug\net8.0-windows\FileLocker.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\New folder\FileLocker\obj\Debug\net8.0-windows\FileLocker.AssemblyInfo.cs
+C:\Users\Hp\Desktop\New folder\FileLocker\obj\Debug\net8.0-windows\FileLocker.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\New folder\FileLocker\bin\Debug\net8.0-windows\FileLocker.exe
+C:\Users\Hp\Desktop\New folder\FileLocker\bin\Debug\net8.0-windows\FileLocker.deps.json
+C:\Users\Hp\Desktop\New folder\FileLocker\bin\Debug\net8.0-windows\FileLocker.runtimeconfig.json
+C:\Users\Hp\Desktop\New folder\FileLocker\bin\Debug\net8.0-windows\FileLocker.dll
+C:\Users\Hp\Desktop\New folder\FileLocker\bin\Debug\net8.0-windows\FileLocker.pdb
+C:\Users\Hp\Desktop\New folder\FileLocker\obj\Debug\net8.0-windows\FileLocker.dll
+C:\Users\Hp\Desktop\New folder\FileLocker\obj\Debug\net8.0-windows\refint\FileLocker.dll
+C:\Users\Hp\Desktop\New folder\FileLocker\obj\Debug\net8.0-windows\FileLocker.pdb
+C:\Users\Hp\Desktop\New folder\FileLocker\obj\Debug\net8.0-windows\FileLocker.genruntimeconfig.cache
+C:\Users\Hp\Desktop\New folder\FileLocker\obj\Debug\net8.0-windows\ref\FileLocker.dll
